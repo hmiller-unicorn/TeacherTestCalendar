@@ -1,0 +1,4815 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Canvas Dashboard//Assessment Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Assessment Calendar
+BEGIN:VEVENT
+UID:canvas-3331-191577@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Freshman Seminar: Reflection: August 19th 
+DESCRIPTION:Freshman Seminar (Scott Comer\, Kelly Kurtenbach\, Christian W
+ inter)\nOther - Assignments\nDue 3:00 PM\nWorth 15.0% of the semester gra
+ de
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3492-191951@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Intermediate Art: Drawing and Painting: Day 1 - Why do you make ar
+ t?
+DESCRIPTION:Intermediate Art: Drawing and Painting (Carson Vandermade)\nOt
+ her - INTRO\nDue 11:59 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195194@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:AP Physics 1: Algebra and Trig Review
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Kinematics\nDue 11:59 PM\nW
+ orth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-191606@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:AP US History: Summer Homework 
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nOther - MCQ\nDue 3:00 PM\nWorth 5.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3367-192004@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Advanced Studio Art: Day 1 - Why do you make art?
+DESCRIPTION:Advanced Studio Art (Carson Vandermade)\nOther - Intro\nDue 11
+ :59 PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195327@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:AP Computer Science: Bits\, Bytes\, and Binary
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - Digital Information\
+ nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-195348@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Advanced Computer Science with AI Agents: Linux Command Line
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Development Environment Fundamentals\nDue 11:59 PM\nWorth 10.0% of the s
+ emester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3320-195368@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:American Literature and Composition: Summer Reading Essay
+DESCRIPTION:American Literature and Composition (Katie Savage)\nEssay / pa
+ per - Writing\nDue 8:00 AM\nWorth 6.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3331-191580@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Freshman Seminar: Reflection 8-21
+DESCRIPTION:Freshman Seminar (Scott Comer\, Kelly Kurtenbach\, Christian W
+ inter)\nOther - Assignments\nDue 9:15 AM\nWorth 15.0% of the semester gra
+ de
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-191804@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Honors US Government: What's your Story? 
+DESCRIPTION:Honors US Government (Chris McCulloch)\nEssay / paper - Debate
+ /FRQ/Writing\nDue 11:59 PM\nWorth 11.8% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3492-191947@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Intermediate Art: Drawing and Painting: Artist Share Presentation 
+ Sign-up
+DESCRIPTION:Intermediate Art: Drawing and Painting (Carson Vandermade)\nPr
+ oject - Artist Presentation\nDue 11:59 PM\nWorth 5.4% of the semester gra
+ de
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190288@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:New Testament: What's Your Story? Part 1 
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 9:25 AM\nWorth 2.0% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3337-195635@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Yearbook: BTS Photos and Captions
+DESCRIPTION:Yearbook (Katie Savage)\nOther - Photography\nDue 11:59 PM\nWo
+ rth 6.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194167@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Chemistry: Element Portfolio Project - Step 1
+DESCRIPTION:Chemistry (Clarita Joung)\nProject - Classwork\, Homework\, Qu
+ iz (30%)\nDue 11:59 PM\nWorth 0.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3331-191608@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Freshman Seminar: Reflection 8-24
+DESCRIPTION:Freshman Seminar (Scott Comer\, Kelly Kurtenbach\, Christian W
+ inter)\nOther - Assignments\nDue 9:15 AM\nWorth 15.0% of the semester gra
+ de
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190293@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:New Testament: Bible Project Video & Worksheet: The Gospel (in cla
+ ss)
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Reading & Video Quizz
+ es\nDue 10:40 AM\nWorth 1.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190360@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:New Testament: What's Your Story? Part 2
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 9:25 AM\nWorth 3.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3349-191930@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:US Government: What's your Story? 
+DESCRIPTION:US Government (Chris McCulloch)\nEssay / paper - Debate/FRQ/Wr
+ iting\nDue 8:00 AM\nWorth 20.0% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-195650@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:World Literature and Composition: (ASSESSMENT) Summer Reading Anal
+ ytical Paragraph- Requires Respondus LockDown Browser
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nTest - Assignments\nDue 11:00 AM\nWorth 3.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3505-191664@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Beginning Art: Drawing and Painting: Sign Up - Artist Share Presen
+ tation
+DESCRIPTION:Beginning Art: Drawing and Painting (Carson Vandermade\, Zemei
+ ra Walker)\nProject - Artist Presentation\nDue 11:59 PM\nWorth 3.3% of th
+ e semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3384-191931@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Honors World Literature and Composition: Summer Reading Written Re
+ sponse
+DESCRIPTION:Honors World Literature and Composition (Katheryn Park)\nTest 
+ - Summative\nDue 2:00 PM\nWorth 8.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191006@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:AP Biology: Quiz: Graphing and Scientific Method
+DESCRIPTION:AP Biology (Nicole Geiger)\nQuiz - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 1:45 PM\nWorth 1.8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-193149@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:AP Calculus AB: AB Calculus Readiness Test
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts \nDue 1:00 PM\nWorth 12.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-193308@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:AP Calculus BC: BC Calculus Readiness Test
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 12.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194002@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:AP Chemistry: Lab Report - Hardness of Water Experiment
+DESCRIPTION:AP Chemistry (Clarita Joung)\nLab - Lab\nDue 8:00 AM\nWorth 2.
+ 5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3415-195177@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:AP Economics: Test 1 -- Supply and Demand
+DESCRIPTION:AP Economics (John Nelson Reimers)\nTest - Tests\nDue 3:00 PM\
+ nWorth 18.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3579-195662@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Algebra 1: 08.26.26.T IN CLASS
+DESCRIPTION:Algebra 1 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 1:00 P
+ M\nWorth 13.4% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3320-195401@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:American Literature and Composition: Song Analysis Presentation
+DESCRIPTION:American Literature and Composition (Katie Savage)\nProject - 
+ Projects and Presentations\nDue 8:00 AM\nWorth 7.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-196342@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: IN CLASS: HUG
+ O and Buster Keaton discussion
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nOther - Participation\nDue 11:59 PM\nWorth 5.6% of the semester 
+ grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-195447@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Digital Film Production 3: Advanced Production: Reflect on Your Go
+ als for the Year
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nOther - Homework\nDue 8:00 AM\nWorth 14.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3331-195184@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Freshman Seminar: Reflection 8-26
+DESCRIPTION:Freshman Seminar (Scott Comer\, Kelly Kurtenbach\, Christian W
+ inter)\nOther - Assignments\nDue 9:15 AM\nWorth 15.0% of the semester gra
+ de
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-193599@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Geometry: Geometry Readiness Quiz
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 2.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-195655@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Honors Algebra 2: 08.24.26.T IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  8:00 AM\nWorth 12.0% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190277@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:New Testament: Bible Project Video & Questions: Literary Styles in
+  the Bible 
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Reading & Video Quizz
+ es\nDue 12:20 PM\nWorth 1.5% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190301@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:New Testament: Casting Project: Birth of Jesus Foretold
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 12:20 PM\nWorth 0.7% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3359-195702@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Performing Arts I: Theater & Vocal Performance: Music Repertoire
+DESCRIPTION:Performing Arts I: Theater & Vocal Performance (Nathanael Over
+ by\, Andrew Wilson)\nOther - Independent Assignments\nDue 6:00 PM\nWorth 
+ 21.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195336@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Physics: Conservation of Nucleons and Charge
+DESCRIPTION:Physics (Steven Eno)\nOther - Strong and Weak Nuclear Force\nD
+ ue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3344-188628@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:AP Literature and Composition: Literary Device Hunt (First)
+DESCRIPTION:AP Literature and Composition (Katie Savage)\nProject - Projec
+ ts/Tests\nDue 11:59 PM\nWorth 1.1% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195195@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:AP Physics 1: Displacement\, Velocity\, Acceleration
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Kinematics\nDue 11:59 PM\nW
+ orth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-192920@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:AP US History: Period 1 Exam MCQ
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - MCQ\nDue 11:59 PM\nWorth 1.5% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-192921@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:AP US History: Period 1 Exam SAQ
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - SAQ\nDue 11:59 PM\nWorth 1.2% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-195349@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Advanced Computer Science with AI Agents: Version Control and Git
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Development Environment Fundamentals\nDue 11:59 PM\nWorth 10.0% of the s
+ emester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-195677@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Algebra 2: 08.28.26.T IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 9:00 A
+ M\nWorth 13.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3368-195609@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Great Books: Metaphor Hunt
+DESCRIPTION:Great Books (Isaias Uggetti)\nOther - Assignments\nDue 8:00 AM
+ \nWorth 9.8% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190482@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Honors Chemistry: Quiz 1A- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nQuiz - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 0.7% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3492-191973@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Intermediate Art: Drawing and Painting: INTRO - SYLLABUS CHECK 
+DESCRIPTION:Intermediate Art: Drawing and Painting (Carson Vandermade)\nOt
+ her - INTRO\nDue 11:59 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3517-192047@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Intermediate Art: Mixed Media: INTRO - SYLLABUS CHECK
+DESCRIPTION:Intermediate Art: Mixed Media (Carson Vandermade)\nTest - Intr
+ o Unit\nDue 11:59 PM\nWorth 7.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190310@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:New Testament: Genre Project: Song Selections 
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 2:25 PM\nWorth 0.7% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-195356@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Technology Foundations: AI Research Tools - Notebook LM
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - History of Techno
+ logy\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-195355@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Technology Foundations: Economic and Cultural Pivot Points
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - History of Techno
+ logy\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-195354@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Technology Foundations: Evolution of Tech Map
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - History of Techno
+ logy\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3301-195625@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:AP Language and Composition: Into the Wild Short Essay
+DESCRIPTION:AP Language and Composition (Isaias Uggetti)\nEssay / paper - 
+ Assignments\nDue 11:59 PM\nWorth 9.0% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3367-192011@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Advanced Studio Art: Signed Syllabus
+DESCRIPTION:Advanced Studio Art (Carson Vandermade)\nOther - Intro\nDue 11
+ :59 PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195337@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Physics: Fission\, Fusion\, and E=mc^2
+DESCRIPTION:Physics (Steven Eno)\nOther - Strong and Weak Nuclear Force\nD
+ ue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191029@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:AP Biology: Transpiration Group Lab Report
+DESCRIPTION:AP Biology (Nicole Geiger)\nLab - Exams\, Quizzes\, Labs & Pro
+ jects\nDue 1:45 PM\nWorth 3.5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195329@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:AP Computer Science: Compressing Data
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - Digital Information\
+ nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195328@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:AP Computer Science: Storing Data and Copyrights
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - Digital Information\
+ nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-195175@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Digital Film Production 3: Advanced Production: IN CLASS CONVERSAT
+ ION: Encounter with the World of Cinema
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nOther - Participation\nDue 3:00 PM\nWorth 7.1% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3331-195186@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Freshman Seminar: REFLECTION 9-9
+DESCRIPTION:Freshman Seminar (Scott Comer\, Kelly Kurtenbach\, Christian W
+ inter)\nOther - Assignments\nDue 3:00 PM\nWorth 15.0% of the semester gra
+ de
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3344-188645@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:AP Literature and Composition: Q3: Summer Reading (Revision)
+DESCRIPTION:AP Literature and Composition (Katie Savage)\nEssay / paper - 
+ Writing\nDue 8:00 AM\nWorth 18.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-194335@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: In Class: Ass
+ embling a production team 
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nOther - Participation\nDue 10:40 AM\nWorth 11.1% of the semester
+  grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3540-194272@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Environmental Science: HW: Presentation - Environmental Situation 
+ in Your Community
+DESCRIPTION:Environmental Science (Clarita Joung)\nProject - Test/Project 
+ - 55%\nDue 9:25 AM\nWorth 21.6% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-196344@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Introduction to Engineering: Transporter Presentation
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nProject - Labs/Proje
+ cts\nDue 8:00 AM\nWorth 1.6% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195338@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Physics: Decay and Half-Life
+DESCRIPTION:Physics (Steven Eno)\nOther - Strong and Weak Nuclear Force\nD
+ ue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3337-195222@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Yearbook: 5 Days of Layout Pro (Day 2)
+DESCRIPTION:Yearbook (Katie Savage)\nOther - Design Assignments\nDue 11:59
+  PM\nWorth 16.5% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3562-188508@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:AP Statistics: Readiness Test
+DESCRIPTION:AP Statistics (Josephine Wilson)\nTest - Quizzes\nDue 11:59 PM
+ \nWorth 2.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3783-196335@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Ancient Literature and Composition: Antigone and Creon Questions
+DESCRIPTION:Ancient Literature and Composition (Ruth Andrew)\nEssay / pape
+ r - Writing\nDue 2:30 PM\nWorth 6.2% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3331-195403@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Freshman Seminar: Reflection 9-11
+DESCRIPTION:Freshman Seminar (Scott Comer\, Kelly Kurtenbach\, Christian W
+ inter)\nOther - Assignments\nDue 9:15 AM\nWorth 25.0% of the semester gra
+ de
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3599-188507@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Geometry: Readiness Test
+DESCRIPTION:Geometry (Josephine Wilson)\nTest - Quizzes\nDue 11:59 PM\nWor
+ th 4.2% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-196362@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Honors US Government: GENEROUS JUSTICE FRQ (IN CLASS) 
+DESCRIPTION:Honors US Government (Chris McCulloch)\nEssay / paper - Debate
+ /FRQ/Writing\nDue 11:59 PM\nWorth 14.8% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-188506@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Statistics: Readiness Test
+DESCRIPTION:Statistics (Josephine Wilson)\nTest - Quizzes\nDue 11:59 PM\nW
+ orth 2.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-195357@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Technology Foundations: Predicting the Future (Based on the Past)
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - History of Techno
+ logy\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-195351@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Advanced Computer Science with AI Agents: Back End Server Deployme
+ nt
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Development Environment Fundamentals\nDue 11:59 PM\nWorth 10.0% of the s
+ emester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-195350@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Advanced Computer Science with AI Agents: Front End Web Foundation
+ s
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Development Environment Fundamentals\nDue 11:59 PM\nWorth 10.0% of the s
+ emester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194185@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Chemistry: HW: Lab Report: Tools for Measurement
+DESCRIPTION:Chemistry (Clarita Joung)\nLab - Lab (20%)\nDue 9:25 AM\nWorth
+  2.4% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-196441@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Digital Film Production 3: Advanced Production: Group Project 1: P
+ lan
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nProject - Projects\nDue 9:15 AM\nWorth 14.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-196345@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Digital Film Production 3: Advanced Production: Director Research 
+ Project Step 1: Choose 3 Options
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nProject - Homework\nDue 8:00 AM\nWorth 7.1% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196411@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Geometry: Quiz: Lesson 1. Segments (taken in class)
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3436-196337@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Honors Ancient Literature and Composition: Antigone and Creon ques
+ tions
+DESCRIPTION:Honors Ancient Literature and Composition (Ruth Andrew)\nEssay
+  / paper - Writing\nDue 9:30 PM\nWorth 5.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3337-195225@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Yearbook: 5 Days of Layout Pro (Day 5)
+DESCRIPTION:Yearbook (Katie Savage)\nOther - Design Assignments\nDue 2:30 
+ PM\nWorth 22.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195196@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:AP Physics 1: 1D Motion Calculations
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Kinematics\nDue 11:59 PM\nW
+ orth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195197@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:AP Physics 1: Vectors and 2D Motion
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Kinematics\nDue 11:59 PM\nW
+ orth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190483@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Honors Chemistry: Quiz 1B- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nQuiz - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3517-196481@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Intermediate Art: Mixed Media: Ripped Collage (First Mini Project)
+DESCRIPTION:Intermediate Art: Mixed Media (Carson Vandermade)\nProject - C
+ ollage\nDue 11:59 PM\nWorth 11.5% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3579-196464@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Algebra 1: 09.14.26.Q IN CLASS
+DESCRIPTION:Algebra 1 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 2:00 P
+ M\nWorth 3.4% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3304-196494@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:French 2: Interro (quiz) n. 1- Requires Respondus LockDown Browser
+DESCRIPTION:French 2 (Karla Herrera)\nQuiz - Quizzes\nDue 11:59 PM\nWorth 
+ 6.4% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-196448@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Honors Algebra 2: 09.16.26.Q IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  11:30 AM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-196499@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Algebra 2: 09.16.26.Q IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 1.7% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3783-196338@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ancient Literature and Composition: Homework -  Character Analysis
+DESCRIPTION:Ancient Literature and Composition (Ruth Andrew)\nOther - Home
+ work\nDue 2:30 PM\nWorth 6.2% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188374@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Biology: Oh Deer!
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nLab - Projects\,  Labs a
+ nd Analysis\nDue 12:45 PM\nWorth 2.3% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191093@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:New Testament: Intro & Chapter 1 Exam
+DESCRIPTION:New Testament (Violet Comer)\nTest - Content Knowledge\nDue 12
+ :30 PM\nWorth 3.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-193851@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:AP Chemistry: Exam Unit 1 Atomic Structure and Properties - FRQ
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 11:30 P
+ M\nWorth 4.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-193746@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:AP Chemistry: Exam Unit 1 Atomic Structure and Properties - MCQ- R
+ equires Respondus LockDown Browser
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 11:30 P
+ M\nWorth 2.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195167@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Advanced Dance: Week 4: Participation 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Participation\nDue 11:5
+ 9 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190302@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:New Testament: Creative Contextualization Project: Jesus' Birth
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 10:10 AM\nWorth 2.7% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190964@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:AP Biology: Khan Academy Chemistry of Life Exam -- for practice
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Daily Work\nDue 10:50 AM\nW
+ orth 0.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190936@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:AP Biology: Exam Unit 1: Chemistry of Life
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 8:00 AM\nWorth 5.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191031@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:AP Biology: Unit 1 AP Classroom Progress Check
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 10:50 AM\nWorth 0.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3562-195230@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:AP Statistics: Register for the AP Exam!
+DESCRIPTION:AP Statistics (Josephine Wilson)\nTest - Homework\nDue 11:59 P
+ M\nWorth 0.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-196601@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Honors US Government: Republic (Module 1) Reading Quest 
+DESCRIPTION:Honors US Government (Chris McCulloch)\nQuiz - QUIZZES (Summat
+ ive and formative)\nDue 11:59 PM\nWorth 10.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-195874@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Spanish 3: Unidad 1 Prueba
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nTest - Tests & Quizzes\nDue 9:15 AM\n
+ Worth 8.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-196641@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:AP US History: Period 2 Exam SAQ
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - SAQ\nDue 11:59 PM\nWorth 2.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-196642@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:AP US History: Period 2 Exam DBQ
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - DBQ\nDue 11:59 PM\nWorth 7.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-191145@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Biology: Quiz: Unit 1 Ecology- Requires Respondus LockDown Browser
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nQuiz - Quizzes and Exams
+ \nDue 2:00 PM\nWorth 6.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194184@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Chemistry: HW: Lab Report: Separating Sand and Salt
+DESCRIPTION:Chemistry (Clarita Joung)\nLab - Lab (20%)\nDue 12:45 PM\nWort
+ h 2.4% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-196622@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: THE KID (dir.
+  Charlie Chaplin) discussion
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nOther - Participation\nDue 11:59 PM\nWorth 5.6% of the semester 
+ grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190457@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Honors Chemistry: Unit 1 Practice Test (digital submission)
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Homework\nDue 10:50 AM\n
+ Worth 0.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190493@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Honors Chemistry: Unit 1 Test- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 5.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-196515@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Technology Foundations: Terminal Fundamentals
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - Computer Fundamen
+ tals\, Command Line and Terminal Essentials\nDue 11:59 PM\nWorth 8.3% of 
+ the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-196630@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:AP Calculus BC: Quiz 4. Direct Comparison Test
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3579-196646@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Algebra 1: 09.23.26.Q IN CLASS
+DESCRIPTION:Algebra 1 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 2:00 P
+ M\nWorth 1.3% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3320-195402@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:American Literature and Composition: Unit 1: Faith and Foundations
+ - Requires Respondus LockDown Browser
+DESCRIPTION:American Literature and Composition (Katie Savage)\nTest - Wri
+ ting\nDue 3:30 PM\nWorth 20.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-196604@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Digital Film Production 3: Advanced Production: Group Project 1: W
+ rite Script
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nProject - Projects\nDue 11:59 PM\nWorth 14.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196629@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Geometry: Quiz: Lesson 4. Vertical Angles and Linear Pairs
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-196615@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Honors Algebra 2: 09.23.26.Q IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  11:30 AM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3339-189347@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Latin 1: Pet Presentation
+DESCRIPTION:Latin 1 (Linnea Scobey)\nProject - Presentations\nDue 9:25 AM\
+ nWorth 9.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190273@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:New Testament: Bible Project Video Quiz: Jesus Inaugurates the Kin
+ gdom
+DESCRIPTION:New Testament (Linnea Scobey)\nQuiz - Reading & Video Quizzes\
+ nDue 12:20 PM\nWorth 1.0% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-196668@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:World Literature and Composition: (ASSESSMENT) Macbeth Acts 1 + 2 
+ Quiz- Requires Respondus LockDown Browser
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nQuiz - Assignments\nDue 3:00 PM\nWorth 4.8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-196645@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Algebra 2: 09.24.26.Q IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 1.4% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3313-196478@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Honors Spanish 3: Prueba n. 1 - Requires Respondus LockDown Browse
+ r
+DESCRIPTION:Honors Spanish 3 (Karla Herrera)\nTest - Quizzes\nDue 9:35 AM\
+ nWorth 7.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3359-196655@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Performing Arts I: Theater & Vocal Performance: Song Reflection
+DESCRIPTION:Performing Arts I: Theater & Vocal Performance (Nathanael Over
+ by\, Andrew Wilson)\nOther - Independent Assignments\nDue 9:00 AM\nWorth 
+ 7.1% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195330@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:AP Computer Science: Networks and Addressing
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - The Internet\nDue 11
+ :59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195331@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:AP Computer Science: Packets and Protocols
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - The Internet\nDue 11
+ :59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195332@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:AP Computer Science: Scaling and Redundancy
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - The Internet\nDue 11
+ :59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-196439@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: IN CLASS: Sil
+ ent Scene - Plan
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nProject - Projects\nDue 10:40 AM\nWorth 11.1% of the semester gr
+ ade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3599-190367@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Geometry: TEST Unit 1 (Lessons 1-6)
+DESCRIPTION:Geometry (Josephine Wilson)\nTest - Tests\nDue 11:59 PM\nWorth
+  11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3517-196737@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Intermediate Art: Mixed Media: Collage Unit Final Proposal
+DESCRIPTION:Intermediate Art: Mixed Media (Carson Vandermade)\nTest - Coll
+ age\nDue 11:59 PM\nWorth 7.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3517-196722@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Intermediate Art: Mixed Media: Magazine Collage (relocating a subj
+ ect)
+DESCRIPTION:Intermediate Art: Mixed Media (Carson Vandermade)\nOther - Col
+ lage\nDue 11:59 PM\nWorth 11.5% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-196691@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:AP Calculus BC: Quiz: 5. Limit Comparison Test
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3415-196721@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:AP Economics: Register and Pay for the AP Exams
+DESCRIPTION:AP Economics (John Nelson Reimers)\nTest - Quizzes\nDue 11:59 
+ PM\nWorth 0.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3304-196624@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:French 2: Project 1:  Le Chef Cuisinier
+DESCRIPTION:French 2 (Karla Herrera)\nProject - Projects\nDue 10:40 AM\nWo
+ rth 19.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196690@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Geometry: Quiz 5. Complementary and Supplementary Angles
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3313-196619@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Honors Spanish 3: Proyecto n. 1: Mi Libro de Memorias
+DESCRIPTION:Honors Spanish 3 (Karla Herrera)\nProject - Projects\nDue 8:00
+  AM\nWorth 19.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3492-191996@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Intermediate Art: Drawing and Painting: Weekly Sketch #1
+DESCRIPTION:Intermediate Art: Drawing and Painting (Carson Vandermade)\nOt
+ her - Weekly Sketches\nDue 8:00 AM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190312@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:New Testament: Inductive Study Presentation: Sermon on the Mount\,
+  Part 1
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Notebooks: Inductive 
+ Study Analysis\nDue 9:25 AM\nWorth 3.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195200@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:AP Physics 1: Free Body Diagrams
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Forces\nDue 11:59 PM\nWorth
+  5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195202@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:AP Physics 1: Gravity\, Friction\, and Spring Forces
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Forces\nDue 11:59 PM\nWorth
+  5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195201@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:AP Physics 1: Newton's 2nd Law
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Forces\nDue 11:59 PM\nWorth
+  5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3562-195882@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:AP Statistics: TEST Unit 1 A Lessons 1.A.1 - 1.A.6
+DESCRIPTION:AP Statistics (Josephine Wilson)\nTest - Tests / Projects\nDue
+  11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-196649@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Algebra 2: 09.29.26.T IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 17.0% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-196623@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: Silent Film P
+ roject: Shoot
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nProject - Projects\nDue 11:59 PM\nWorth 11.1% of the semester gr
+ ade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3517-196738@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Intermediate Art: Mixed Media: Bring collage material to class
+DESCRIPTION:Intermediate Art: Mixed Media (Carson Vandermade)\nOther - Col
+ lage\nDue 8:00 AM\nWorth 7.7% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3347-189395@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Latin 2: Assessment 1: Hexagonal Connections Project
+DESCRIPTION:Latin 2 (Linnea Scobey)\nProject - Tests & Quizzes\nDue 10:50 
+ AM\nWorth 8.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3490-196798@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:New Testament: Annotation Check #1
+DESCRIPTION:New Testament (Jim Knight)\nQuiz - Mere Christianity Annotatio
+ ns/Quizzes\nDue 11:59 PM\nWorth 15.7% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3490-196784@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:New Testament: Learning Device One
+DESCRIPTION:New Testament (Jim Knight)\nTest - Exams\nDue 9:20 AM\nWorth 1
+ 7.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3359-196806@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Performing Arts I: Theater & Vocal Performance: Spare Scene Memori
+ zation Workshop
+DESCRIPTION:Performing Arts I: Theater & Vocal Performance (Nathanael Over
+ by\, Andrew Wilson)\nOther - Collaborative Assignments\nDue 2:00 PM\nWort
+ h 26.8% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-196580@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Statistics: TEST Unit 1 (1.1-1.7)
+DESCRIPTION:Statistics (Josephine Wilson)\nTest - Tests / Projects\nDue 11
+ :59 PM\nWorth 7.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3349-196792@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:US Government: Republic Quiz-Module 1
+DESCRIPTION:US Government (Chris McCulloch)\nQuiz - QUIZZES (Summative and
+  formative)\nDue 11:59 PM\nWorth 10.3% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-196611@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:AP Calculus AB: Test: Lessons 1-5 Review Pages
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts \nDue 1:00 PM\nWorth 12.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-196849@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:AP Calculus AB: In Class Work: Lessons 1-5
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nOther - In Class Work/Partici
+ pation/Work Habits\nDue 1:00 PM\nWorth 17.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-196847@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:AP Calculus BC: In Class Work: Lesson 1-5
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nOther - In Class Work / Parti
+ cipation / Work Habits\nDue 10:00 AM\nWorth 16.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-196610@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:AP Calculus BC: Test: Lessons 1-5 
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 12.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-197338@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Advanced Computer Science with AI Agents: Build a REST API with a 
+ Database
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Full Stack Development (Building and Deploying AI Applicaitons)\nDue 11:
+ 59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194183@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Chemistry: HW: Lab Report T-shirt Chromatography
+DESCRIPTION:Chemistry (Clarita Joung)\nLab - Lab (20%)\nDue 1:20 PM\nWorth
+  2.4% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196787@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Geometry: Test 1 Geometry Vocabulary Matching 
+DESCRIPTION:Geometry (Matt Benedetto)\nTest - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-196674@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Honors Algebra 2: 09.30.26.T IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  9:30 AM\nWorth 18.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189467@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Honors Latin 4: Unit 1 Test A: Gyges - Requires Respondus LockDown
+  Browser
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nTest - Tests & Quizzes\nDue 9:
+ 15 AM\nWorth 7.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195340@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Physics: Free Body Diagrams (FBD)
+DESCRIPTION:Physics (Steven Eno)\nOther - Kinematics and Force Analysis\nD
+ ue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195341@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Physics: Newton's 2nd Law
+DESCRIPTION:Physics (Steven Eno)\nOther - Kinematics and Force Analysis\nD
+ ue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195339@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Physics: Position\, Velocity\, and Acceleration (PVA)
+DESCRIPTION:Physics (Steven Eno)\nOther - Kinematics and Force Analysis\nD
+ ue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3301-196998@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:AP Language and Composition: Rhetorical Analysis Essay 1 (IN-CLASS
+ )
+DESCRIPTION:AP Language and Composition (Isaias Uggetti)\nEssay / paper - 
+ Assignments\nDue 10:50 AM\nWorth 13.5% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-196823@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:AP US History: Constitution v Articles of Confederation Socratic S
+ eminar Prep Sheet
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nOther - DBQ\nDue 11:59 PM\nWorth 7.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-196566@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Biology: Quick Quiz Unit 2 Cell Theory\, Cell Types & Cell Parts -
+  Requires Respondus LockDown Browser
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nQuiz - Quizzes and Exams
+ \nDue 12:05 PM\nWorth 2.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190484@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Honors Chemistry: Quiz 2A- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nQuiz - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-196740@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Technology Foundations: Organize Your Digital Life
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - Computer Fundamen
+ tals\, Command Line and Terminal Essentials\nDue 11:59 PM\nWorth 8.3% of 
+ the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190984@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:AP Biology: Osmosis Lab Report Sections 1 - 3
+DESCRIPTION:AP Biology (Nicole Geiger)\nLab - Exams\, Quizzes\, Labs & Pro
+ jects\nDue 10:50 AM\nWorth 1.8% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195333@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:AP Computer Science: Library Fundamentals (Unit 1 Creative Task)
+DESCRIPTION:AP Computer Science (Steven Eno)\nTest - Intro to Python w/ CM
+ U Graphics\nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195169@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Advanced Dance: Week 6: Participation 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Participation\nDue 11:5
+ 9 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3579-196675@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Algebra 1: 09.30.26.T IN CLASS
+DESCRIPTION:Algebra 1 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 16.8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194187@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Chemistry: HW: Presentation - Evidence of Chemical Change
+DESCRIPTION:Chemistry (Clarita Joung)\nProject - Classwork\, Homework\, Qu
+ iz (30%)\nDue 9:25 AM\nWorth 2.9% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3423-192996@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Economics & Entrepreneurship: Reflection
+DESCRIPTION:Economics & Entrepreneurship (John Nelson Reimers)\nEssay / pa
+ per - Major Assessments (Tests\, Essays\, Projects\nDue 8:00 AM\nWorth 13
+ .3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3304-196852@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:French 2: Examen (exam) n. 1- Requires Respondus LockDown Browser 
+DESCRIPTION:French 2 (Karla Herrera)\nTest - Exams\nDue 11:59 PM\nWorth 22
+ .2% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196868@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Geometry: In Class Work: Lessons 1-5
+DESCRIPTION:Geometry (Matt Benedetto)\nOther - In Class Work/Participation
+ /Work Habits\nDue 2:00 PM\nWorth 16.7% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196633@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Geometry: Test #2: Review Pages 1-5
+DESCRIPTION:Geometry (Matt Benedetto)\nTest - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190313@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:New Testament: Inductive Study Presentation: Sermon on the Mount\,
+  Part 2
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Notebooks: Inductive 
+ Study Analysis\nDue 9:25 AM\nWorth 3.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190304@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:New Testament: Creative Project: Lord's Prayer or Beatitudes 
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 9:25 PM\nWorth 1.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-196853@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:World Literature and Composition: (ASSESSMENT) Macbeth Act 3 Quiz
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nQuiz - Assignments\nDue 10:40 AM\nWorth 4.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190933@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:AP Biology: Cube Diffusion Activity
+DESCRIPTION:AP Biology (Nicole Geiger)\nQuiz - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 10:50 AM\nWorth 1.3% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-196666@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Digital Film Production 3: Advanced Production: Semester Project: 
+ Step 1
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nProject - Homework\nDue 8:00 AM\nWorth 14.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189556@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Honors Latin 4: Unit Reflection Paper: Cicero's Gyges
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nEssay / paper - Presentations 
+ & Papers\nDue 1:10 PM\nWorth 3.4% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-191704@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Honors US Government: NATURALIZATION PRACTICE Quiz
+DESCRIPTION:Honors US Government (Chris McCulloch)\nQuiz - Global Citizens
+ hip \nDue 8:00 AM\nWorth 13.7% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3339-189360@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Latin 1: Vocabulary Set-ups: Puer Mendax
+DESCRIPTION:Latin 1 (Linnea Scobey)\nProject - Presentations\nDue 10:50 AM
+ \nWorth 5.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3540-194262@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Environmental Science: Ecological Footprint Project – Gulf Oil S
+ pill Connection
+DESCRIPTION:Environmental Science (Clarita Joung)\nProject - Classwork\, H
+ omework\, Quiz - 30%\nDue 10:50 AM\nWorth 1.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3313-196828@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Honors Spanish 3: Exam 1 - Requires Respondus LockDown Browser
+DESCRIPTION:Honors Spanish 3 (Karla Herrera)\nTest - Exams\nDue 11:59 PM\n
+ Worth 22.2% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191002@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AP Biology: Quiz Unit 2: Cell Structures & Functions
+DESCRIPTION:AP Biology (Nicole Geiger)\nQuiz - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 1:45 PM\nWorth 1.3% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191003@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AP Biology: Quiz Unit 2: Cell Structures & Functions APC
+DESCRIPTION:AP Biology (Nicole Geiger)\nQuiz - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 1:45 PM\nWorth 0.9% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-196911@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AP Calculus AB: Quiz: 7. Product Rule and Quotient Rule
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessme
+ nts \nDue 1:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-196910@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AP Calculus BC: Quiz: Ratio and Root Test
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-197074@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AP Chemistry: Unit 2  Test FRQ
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 11:30 P
+ M\nWorth 4.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3415-196867@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:AP Economics: Test 2 Utility and Costs
+DESCRIPTION:AP Economics (John Nelson Reimers)\nTest - Tests\nDue 2:30 PM\
+ nWorth 18.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188335@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Biology: Cell Analogy Project (paper submission)
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nEssay / paper - Projects
+ \,  Labs and Analysis\nDue 10:20 AM\nWorth 4.7% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-196418@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Biology: Take Notes on Preparing Microscope Slides (digital submis
+ sion)
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nLab - Projects\,  Labs a
+ nd Analysis\nDue 10:20 AM\nWorth 1.2% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196957@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Geometry: Quiz: Lesson 7 Properties of Parallel Lines
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-196901@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Honors Algebra 2: 10.07.26.Q IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  11:30 AM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-196942@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Honors US Government: Aristotle Quest 
+DESCRIPTION:Honors US Government (Chris McCulloch)\nQuiz - QUIZZES (Summat
+ ive and formative)\nDue 11:59 PM\nWorth 8.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190355@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:New Testament: Test 1 Part 1: Multiple-Choice Questions- Requires 
+ Respondus LockDown Browser
+DESCRIPTION:New Testament (Linnea Scobey)\nTest - Tests & Quizzes \nDue 11
+ :20 AM\nWorth 4.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190281@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:New Testament: Test 1 Part 2: Inductive Bible Study - Requires Res
+ pondus LockDown Browser
+DESCRIPTION:New Testament (Linnea Scobey)\nTest - Tests & Quizzes \nDue 11
+ :20 AM\nWorth 4.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-196926@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Spanish 3: Unidad 2 Prueba
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nTest - Tests & Quizzes\nDue 12:30 PM\
+ nWorth 8.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190485@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Honors Chemistry: Quiz 2B- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nQuiz - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 0.9% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3384-196960@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Honors World Literature and Composition: Macbeth I-III.Revision
+DESCRIPTION:Honors World Literature and Composition (Katheryn Park)\nTest 
+ - Summative\nDue 2:00 PM\nWorth 4.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192141@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Introduction to Engineering: Final TOSS IT Sketches
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nTest - HW\nDue 8:00 
+ AM\nWorth 0.5% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3347-189458@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Latin 2: Vocabulary Set-ups: Ridiculi et Horribiles
+DESCRIPTION:Latin 2 (Linnea Scobey)\nProject - Presentations\nDue 11:59 PM
+ \nWorth 4.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-195881@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Statistics: Unit 1 Project! Exploring and Presenting CODAP Data
+DESCRIPTION:Statistics (Josephine Wilson)\nProject - Tests / Projects\nDue
+  11:59 PM\nWorth 7.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3344-188627@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:AP Literature and Composition: Literary Device Hunt (Dystopian and
+  CD)
+DESCRIPTION:AP Literature and Composition (Katie Savage)\nProject - Projec
+ ts/Tests\nDue 11:59 PM\nWorth 6.9% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-196961@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Algebra 2: 10.09.26.Q IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 12:00 
+ PM\nWorth 1.0% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-196419@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Biology: Microscope Lab
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nLab - Projects\,  Labs a
+ nd Analysis\nDue 1:10 PM\nWorth 3.5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-196846@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Biology: LQ Practice for Unit 2 Test Cells
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nTest - Participation and
+  Review\nDue 1:10 PM\nWorth 0.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3368-196953@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Great Books: Vita Nuova In-Class Presentations
+DESCRIPTION:Great Books (Isaias Uggetti)\nProject - Assignments\nDue 11:59
+  PM\nWorth 6.5% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-196928@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Technology Foundations: Build Your GitHub Profile Card
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - Computer Fundamen
+ tals\, Command Line and Terminal Essentials\nDue 11:59 PM\nWorth 8.3% of 
+ the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3349-191871@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:US Government: GROUPS: Diagram IT! Megalo Psuche and Saddleback Sa
+ m 
+DESCRIPTION:US Government (Chris McCulloch)\nOther - GROUP\nDue 11:59 PM\n
+ Worth 22.2% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-197031@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:AP US History: Period 3 Exam
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - MCQ\nDue 11:59 PM\nWorth 6.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3505-191646@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Beginning Art: Drawing and Painting: Gather and photograph items f
+ or final project
+DESCRIPTION:Beginning Art: Drawing and Painting (Carson Vandermade\, Zemei
+ ra Walker)\nProject - OBSERVATIONAL DRAWING\nDue 8:00 AM\nWorth 3.3% of t
+ he semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190965@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AP Biology: Khan Academy Unit Test -- Cell Structure & Function fo
+ r Review
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Daily Work\nDue 1:45 PM\nWo
+ rth 0.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190937@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AP Biology: Exam Unit 2: Cell Structure & Function FRQ
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 1:45 PM\nWorth 0.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190938@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AP Biology: Exam Unit 2: Cell Structure & Function MCQ's
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 1:45 PM\nWorth 5.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191032@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AP Biology: Unit 2 AP Classroom Progress Check
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 1:45 PM\nWorth 0.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194004@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AP Chemistry: Lab Report - Ideal Gas Law
+DESCRIPTION:AP Chemistry (Clarita Joung)\nLab - Lab\nDue 1:45 PM\nWorth 2.
+ 5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-196919@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:AP Chemistry: Unit 2 Test 12 MCQ 
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 11:30 P
+ M\nWorth 3.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3579-196948@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Algebra 1: 10.14.26.Q IN CLASS
+DESCRIPTION:Algebra 1 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 1.3% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-196571@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Biology: Test Unit 2: Cells and Organization of Life- Requires Res
+ pondus LockDown Browser
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nTest - Quizzes and Exams
+ \nDue 1:35 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190497@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Honors Chemistry: Unit 2 Test- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 5.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189524@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Honors Latin 4: Food Proverb Presentation
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nProject - Presentations & Pape
+ rs\nDue 8:00 AM\nWorth 2.1% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3349-191835@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:US Government: HOMEWORK: NATURALIZATION PRACTICE Quiz
+DESCRIPTION:US Government (Chris McCulloch)\nQuiz - Global Citizenship \nD
+ ue 11:59 PM\nWorth 13.7% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-197009@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:World Literature and Composition: (ASSESSMENT) Macbeth Characteriz
+ ation Paragraph Score
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nTest - Assignments\nDue 11:59 PM\nWorth 5.5% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3562-196591@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:AP Statistics: TEST Unit 1 B Lessons 1.B.1 - 1.B.5
+DESCRIPTION:AP Statistics (Josephine Wilson)\nTest - Tests / Projects\nDue
+  11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-196618@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: IN CLASS: Sil
+ ent Film - edit
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nProject - Projects\nDue 11:59 PM\nWorth 11.1% of the semester gr
+ ade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3614-189586@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:French 1: Project 1-Me Voici
+DESCRIPTION:French 1 (Karla Herrera)\nProject - Projects\nDue 8:00 AM\nWor
+ th 16.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3368-197080@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Great Books: Vita Nuova Unit Exam
+DESCRIPTION:Great Books (Isaias Uggetti)\nTest - Assignments\nDue 10:30 AM
+ \nWorth 16.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192485@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Introduction to Engineering: TossIt Presentation Reflection
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nProject - Participat
+ ion\nDue 9:30 AM\nWorth 0.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-197085@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Introduction to Engineering: TOSS IT Presentation File
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nProject - Labs/Proje
+ cts\nDue 8:00 AM\nWorth 1.6% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3359-197051@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Performing Arts I: Theater & Vocal Performance: Top 5 Songs (in or
+ der) 
+DESCRIPTION:Performing Arts I: Theater & Vocal Performance (Nathanael Over
+ by\, Andrew Wilson)\nOther - Collaborative Assignments\nDue 9:00 AM\nWort
+ h 8.9% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3349-197041@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:US Government: Aristotle Quest
+DESCRIPTION:US Government (Chris McCulloch)\nQuiz - QUIZZES (Summative and
+  formative)\nDue 11:59 PM\nWorth 7.7% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195335@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:AP Computer Science: Parameters
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - Intro to Python w/ C
+ MU Graphics\nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3568-195334@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:AP Computer Science: Procedures (Functions)
+DESCRIPTION:AP Computer Science (Steven Eno)\nOther - Intro to Python w/ C
+ MU Graphics\nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-197339@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Advanced Computer Science with AI Agents: Full-Stack App with User
+  Authentication
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Full Stack Development (Building and Deploying AI Applicaitons)\nDue 11:
+ 59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3783-196982@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Ancient Literature and Composition: Sweeney Todd final essay *pape
+ r*
+DESCRIPTION:Ancient Literature and Composition (Ruth Andrew)\nEssay / pape
+ r - Writing\nDue 11:59 PM\nWorth 14.4% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3614-196980@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:French 1: Exam 1 - Requires Respondus LockDown Browser
+DESCRIPTION:French 1 (Karla Herrera)\nTest - Exams\nDue 4:30 PM\nWorth 22.
+ 2% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-197078@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Geometry: Quiz: Lessons 6\,7\,8 (In Class)
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3599-196578@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Geometry: TEST Unit 2 (Lessons 7-12)
+DESCRIPTION:Geometry (Josephine Wilson)\nTest - Tests\nDue 11:59 PM\nWorth
+  11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-197073@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Honors Algebra 2: 10.16.26.Q IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  11:30 AM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3384-197061@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Honors World Literature and Composition: Macbeth.Final Short Essay
+ - Requires Respondus LockDown Browser
+DESCRIPTION:Honors World Literature and Composition (Katheryn Park)\nEssay
+  / paper - Summative\nDue 5:00 PM\nWorth 21.4% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190983@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:AP Biology: Osmosis Lab Report -- Final Sections 4 - 7 (paper)
+DESCRIPTION:AP Biology (Nicole Geiger)\nLab - Exams\, Quizzes\, Labs & Pro
+ jects\nDue 10:50 AM\nWorth 4.4% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3423-193002@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Economics & Entrepreneurship: The Entrepreneurial Mindset: Journal
+  Entry 12 10yr5 yr 1 yr
+DESCRIPTION:Economics & Entrepreneurship (John Nelson Reimers)\nOther - Ho
+ mework\nDue 12:00 PM\nWorth 6.7% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3436-196984@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Honors Ancient Literature and Composition: Sweeney Todd essay *pap
+ er*
+DESCRIPTION:Honors Ancient Literature and Composition (Ruth Andrew)\nEssay
+  / paper - Writing\nDue 11:59 PM\nWorth 12.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190353@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:New Testament: Seeing Exercise: Penny Quest
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 9:25 AM\nWorth 0.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3480-196958@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Photography: Using the Principles of Composition outside of school
+  
+DESCRIPTION:Photography (Samuel Anderson)\nEssay / paper - Homework\nDue 1
+ 0:40 AM\nWorth 6.2% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-197059@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Statistics: Unit 2 Project PART 1- Designing Study
+DESCRIPTION:Statistics (Josephine Wilson)\nProject - Tests / Projects\nDue
+  11:59 PM\nWorth 0.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-197116@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Algebra 2: 10.20.26.Q IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 12:00 
+ PM\nWorth 1.4% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3367-192007@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Advanced Studio Art: Final Project 1
+DESCRIPTION:Advanced Studio Art (Carson Vandermade)\nProject - First Unit 
+ Final Project\nDue 8:00 AM\nWorth 22.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3344-188530@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:AP Literature and Composition: In-Class Essay: Q1 - Requires Respo
+ ndus LockDown Browser
+DESCRIPTION:AP Literature and Composition (Katie Savage)\nEssay / paper - 
+ Writing\nDue 11:59 PM\nWorth 18.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3517-196990@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Intermediate Art: Mixed Media: Collage Unit Final Project (Paper S
+ ubmission)
+DESCRIPTION:Intermediate Art: Mixed Media (Carson Vandermade)\nEssay / pap
+ er - Collage\nDue 8:00 AM\nWorth 38.5% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191602@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:New Testament: Enneagram Personality Test
+DESCRIPTION:New Testament (Violet Comer)\nTest - Communication\nDue 1:00 P
+ M\nWorth 1.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3359-197363@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Performing Arts I: Theater & Vocal Performance: Festival Scene Tab
+ le Reads
+DESCRIPTION:Performing Arts I: Theater & Vocal Performance (Nathanael Over
+ by\, Andrew Wilson)\nOther - Collaborative Assignments\nDue 12:30 PM\nWor
+ th 26.8% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191004@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:AP Biology: Quiz Unit 3: Enzymes
+DESCRIPTION:AP Biology (Nicole Geiger)\nQuiz - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 10:50 AM\nWorth 0.9% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-196860@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:AP Calculus AB: Test: Review Pages 6-10
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts \nDue 1:00 PM\nWorth 12.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-197278@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:AP Calculus AB: In Class Work: Lessons 6-10
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nOther - In Class Work/Partici
+ pation/Work Habits\nDue 1:00 PM\nWorth 17.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-197277@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:AP Calculus BC: In Class Work: Lesson 6-10
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nOther - In Class Work / Parti
+ cipation / Work Habits\nDue 10:00 AM\nWorth 16.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-196861@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:AP Calculus BC: Test Lessons: 6-10 
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 12.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3423-192986@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Economics & Entrepreneurship: Personal Growth Plan
+DESCRIPTION:Economics & Entrepreneurship (John Nelson Reimers)\nEssay / pa
+ per - Major Assessments (Tests\, Essays\, Projects\nDue 8:00 AM\nWorth 16
+ .7% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-197276@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Geometry: In Class Work: Lessons 6-10
+DESCRIPTION:Geometry (Matt Benedetto)\nOther - In Class Work/Participation
+ /Work Habits\nDue 2:00 PM\nWorth 16.7% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-196859@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Geometry: Test #3: Review Pages 6-10
+DESCRIPTION:Geometry (Matt Benedetto)\nTest - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-197187@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Spanish 3: Future Project - Planning Sheet
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nProject - Projects\nDue 8:00 AM\nWort
+ h 4.6% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-197025@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Technology Foundations: Project Euler
+DESCRIPTION:Technology Foundations (Steven Eno)\nProject - Advanced AI App
+ lication\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-197225@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:World Literature and Composition: (Assessment) Macbeth Timed Essay
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nEssay / paper - Assignments\nDue 5:00 PM\nWorth 11.0% of the semester
+  grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194007@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:AP Chemistry: Lab Report: Determine the Concentration of Blue Dyes
+  in Sports Drink using a Spectrophotometer
+DESCRIPTION:AP Chemistry (Clarita Joung)\nLab - Lab\nDue 8:00 AM\nWorth 2.
+ 5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-197171@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Digital Film Production 3: Advanced Production: Semester Project S
+ tep 2
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nProject - Projects\nDue 8:00 AM\nWorth 14.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3436-197121@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Honors Ancient Literature and Composition: Medea and Antigone Comp
+ arison Table *online*
+DESCRIPTION:Honors Ancient Literature and Composition (Ruth Andrew)\nEssay
+  / paper - Writing\nDue 11:59 PM\nWorth 5.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-191735@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Honors US Government: GROUP PROJECT: State of Nature Scenes 
+DESCRIPTION:Honors US Government (Chris McCulloch)\nProject - GROUP\nDue 1
+ 1:59 PM\nWorth 6.0% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3384-196522@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Honors World Literature and Composition: Macbeth.I-III- Requires R
+ espondus LockDown Browser
+DESCRIPTION:Honors World Literature and Composition (Katheryn Park)\nTest 
+ - Summative\nDue 4:30 PM\nWorth 21.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190351@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:New Testament: Sabbath Practice & Reflection
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 9:25 AM\nWorth 1.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-196976@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Spanish 3: Predicciones (Assessments)
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nTest - Homework & Classwork\nDue 8:00
+  AM\nWorth 0.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-196972@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Spanish 3: Unidad 3 Prueba
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nTest - Tests & Quizzes\nDue 9:15 AM\n
+ Worth 8.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-197060@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Statistics: Unit 2 Project PART 2- Sampling
+DESCRIPTION:Statistics (Josephine Wilson)\nProject - Tests / Projects\nDue
+  11:59 PM\nWorth 0.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-197134@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Biology: Quick Quiz Unit 3 Cellular Energy- Requires Respondus Loc
+ kDown Browser
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nQuiz - Quizzes and Exams
+ \nDue 11:59 PM\nWorth 1.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194216@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Chemistry: Lab Report: Calculating Atomic Mass of Terrorium
+DESCRIPTION:Chemistry (Clarita Joung)\nLab - Lab (20%)\nDue 12:45 PM\nWort
+ h 2.4% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-197053@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: SINGIN' IN TH
+ E RAIN discussion participation
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nOther - Participation\nDue 11:59 PM\nWorth 5.6% of the semester 
+ grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190486@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Honors Chemistry: Quiz 3A- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nQuiz - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 0.9% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191129@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:New Testament: Parable Project Video
+DESCRIPTION:New Testament (Violet Comer)\nProject - Communication\nDue 8:0
+ 0 AM\nWorth 3.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191127@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:New Testament: Parable Project Inductive Study
+DESCRIPTION:New Testament (Violet Comer)\nProject - Analysis\nDue 8:00 AM\
+ nWorth 1.9% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191128@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:New Testament: Parable Project Presentation Slides
+DESCRIPTION:New Testament (Violet Comer)\nProject - Content Knowledge\nDue
+  8:00 AM\nWorth 1.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195158@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Advanced Dance: Week 10: Participation 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Participation\nDue 11:5
+ 9 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3579-197028@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Algebra 1: 10.28.26.T IN CLASS
+DESCRIPTION:Algebra 1 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 16.8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3320-197260@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:American Literature and Composition: Scarlet Letter Comic Strip
+DESCRIPTION:American Literature and Composition (Katie Savage)\nProject - 
+ Projects and Presentations\nDue 8:00 AM\nWorth 6.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3586-197029@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Honors Algebra 2: 10.28.26.T IN CLASS
+DESCRIPTION:Honors Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue
+  8:00 AM\nWorth 18.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190300@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:New Testament: Cardinal Virtues Reflection
+DESCRIPTION:New Testament (Linnea Scobey)\nProject - Written Reflections &
+  Creative Projects\nDue 12:20 PM\nWorth 0.7% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-197173@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Spanish 3: PROYECTO: Mi Vida en el Futuro
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nProject - Projects\nDue 1:45 PM\nWort
+ h 23.2% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-197568@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:World Literature and Composition: (Assessment) Frankenstein V1\, C
+ h1-3 Reading Quiz
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nQuiz - Assignments\nDue 3:00 PM\nWorth 3.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195205@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:AP Physics 1: Power
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Work\, Energy\, and Power\n
+ Due 11:59 PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195203@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:AP Physics 1: Work-Energy Theorem
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Work\, Energy\, and Power\n
+ Due 11:59 PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3567-197027@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Algebra 2: 10.29.36.T IN CLASS
+DESCRIPTION:Algebra 2 (Jeremy Tuggy)\nQuiz - Tests and Quizzes\nDue 8:00 A
+ M\nWorth 17.0% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192445@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Introduction to Engineering: Engineering America 250 Presentation
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nProject - Labs/Proje
+ cts\nDue 8:00 AM\nWorth 2.5% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3347-189455@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Latin 2: Unit 2 Test: Familia Mala & Ridiculi et Horribiles- Requi
+ res Respondus LockDown Browser
+DESCRIPTION:Latin 2 (Linnea Scobey)\nTest - Tests & Quizzes\nDue 10:40 AM\
+ nWorth 11.2% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3347-189459@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Latin 2: Vocabulary Set-ups: Weather Vocab
+DESCRIPTION:Latin 2 (Linnea Scobey)\nProject - Presentations\nDue 11:59 PM
+ \nWorth 4.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195204@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:AP Physics 1: Law of Conservation of Energy
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Work\, Energy\, and Power\n
+ Due 11:59 PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196084@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Advanced Engineering Principles: FINAL Project Presentation_name o
+ f task
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nProject - Eng2 H
+ W\nDue 9:25 AM\nWorth 1.8% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3505-191653@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Beginning Art: Drawing and Painting: OBSERVATIONAL DRAWING FINAL (
+ paper submission)
+DESCRIPTION:Beginning Art: Drawing and Painting (Carson Vandermade\, Zemei
+ ra Walker)\nEssay / paper - OBSERVATIONAL DRAWING\nDue 8:00 AM\nWorth 32.
+ 8% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3614-195880@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:French 1: Quiz 2- Requires Respondus LockDown Browser
+DESCRIPTION:French 1 (Karla Herrera)\nQuiz - Quizzes\nDue 9:20 AM\nWorth 6
+ .8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3313-197303@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Honors Spanish 3: Proyecto 2: El Noticiero (Parte 1 - El Guion)
+DESCRIPTION:Honors Spanish 3 (Karla Herrera)\nProject - Projects\nDue 11:5
+ 9 PM\nWorth 4.0% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191090@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:New Testament: Chapter 2 Exam: Jesus's Ministry & Miracles
+DESCRIPTION:New Testament (Violet Comer)\nTest - Content Knowledge\nDue 9:
+ 15 AM\nWorth 2.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-197022@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Statistics: TEST Unit 2 (2.1-2.6)
+DESCRIPTION:Statistics (Josephine Wilson)\nTest - Tests / Projects\nDue 11
+ :59 PM\nWorth 7.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3406-197569@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:World Literature and Composition: (Assessment) Frankenstein V1\, C
+ h4-6 Reading Quiz
+DESCRIPTION:World Literature and Composition (Scott Comer\, Amber DeBennin
+ g)\nQuiz - Assignments\nDue 3:00 PM\nWorth 2.9% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-197296@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:AP Calculus AB: Quiz: 13. The Chain Rule
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessme
+ nts \nDue 1:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194005@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:AP Chemistry: Lab Report - Paper Chromatography of Pigments in a S
+ pinach Leaf
+DESCRIPTION:AP Chemistry (Clarita Joung)\nLab - Lab\nDue 8:00 AM\nWorth 2.
+ 5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-197340@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Advanced Computer Science with AI Agents: Components\, State\, and
+  Third-Party APIs
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Software Engineering Fundamentals (Advanced Web Application Dev)\nDue 11
+ :59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188342@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Biology: Graphing: Diabetes Prevalence as Time Passes (Paper)
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nEssay / paper - Projects
+ \,  Labs and Analysis\nDue 10:50 AM\nWorth 2.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-197251@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Biology: LQ Practice for Unit 3 Test Energy\, Growth & Homeostasis
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nTest - Participation and
+  Review\nDue 10:50 AM\nWorth 0.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3522-194215@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Chemistry: Lab Report: A Penny for Your Neutron
+DESCRIPTION:Chemistry (Clarita Joung)\nLab - Lab (20%)\nDue 9:25 AM\nWorth
+  2.4% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-197307@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Geometry: Quiz: 11. Equations of Lines (In Class)
+DESCRIPTION:Geometry (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-191146@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Honors Chemistry: Quiz 3B- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nQuiz - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 0.9% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195343@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Physics: Newton's Universal Law of Gravitation
+DESCRIPTION:Physics (Steven Eno)\nOther - Gravity and Cosmology\nDue 11:59
+  PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195344@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Physics: Orbital Motion - Ac = v^2 / r
+DESCRIPTION:Physics (Steven Eno)\nOther - Gravity and Cosmology\nDue 11:59
+  PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195342@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Physics: Spacetime Warping (General Relativity)
+DESCRIPTION:Physics (Steven Eno)\nOther - Gravity and Cosmology\nDue 11:59
+  PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-197366@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Spanish 3: Chapters 4-6 Quiz
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nQuiz - Tests & Quizzes\nDue 8:30 AM\n
+ Worth 1.8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3337-195227@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Yearbook: Spread #1
+DESCRIPTION:Yearbook (Katie Savage)\nOther - Page Production\nDue 11:59 PM
+ \nWorth 54.9% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-197347@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:AP US History: Period 4 Exam SAQ
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - SAQ\nDue 11:59 PM\nWorth 5.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3379-197348@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:AP US History: Period 4 Exam LEQ
+DESCRIPTION:AP US History (Kirstin Anderson\, JooBin Kim\, John Nelson Rei
+ mers)\nTest - LEQ\nDue 11:59 PM\nWorth 4.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3359-197365@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Performing Arts I: Theater & Vocal Performance: Festival Scenes (A
+ cting Beats) 
+DESCRIPTION:Performing Arts I: Theater & Vocal Performance (Nathanael Over
+ by\, Andrew Wilson)\nOther - Collaborative Assignments\nDue 12:00 PM\nWor
+ th 8.9% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-197326@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Technology Foundations: CMU CS Academy Library Basics (Unit 1)
+DESCRIPTION:Technology Foundations (Steven Eno)\nTest - Programming Fundam
+ entals\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-197444@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:AP Calculus BC: Quiz 13. Writing Taylor or MacLaurin Series
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nQuiz - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 0.6% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-197514@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:AP Chemistry: Unit 3 Test MCQ - Requires Respondus LockDown Browse
+ r
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 3:00 PM
+ \nWorth 4.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3783-197404@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Ancient Literature and Composition: Homework - Appearance vs. Real
+ ity *on paper*
+DESCRIPTION:Ancient Literature and Composition (Ruth Andrew)\nEssay / pape
+ r - Homework\nDue 11:59 PM\nWorth 6.2% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188380@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Biology: Student Sheet 3: Scenario Scaffolds Diabetes Activity
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nLab - Projects\,  Labs a
+ nd Analysis\nDue 12:20 PM\nWorth 2.3% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-197283@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: MUSIC VIDEO P
+ ROJECT STEP 1: Script
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nProject - Projects\nDue 11:59 PM\nWorth 11.1% of the semester gr
+ ade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190494@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Honors Chemistry: Unit 2 Practice Test (digital submission)
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Homework\nDue 11:59 PM\n
+ Worth 1.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190356@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:New Testament: Test 2 Part 1: Multiple-Choice Questions- Requires 
+ Respondus LockDown Browser
+DESCRIPTION:New Testament (Linnea Scobey)\nTest - Tests & Quizzes \nDue 1:
+ 35 PM\nWorth 6.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3431-190271@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:New Testament: Test 2 Part 2: Inductive Bible Study (on paper + Ca
+ nvas)- Requires Respondus LockDown Browser
+DESCRIPTION:New Testament (Linnea Scobey)\nEssay / paper - Tests & Quizzes
+  \nDue 1:35 PM\nWorth 4.4% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3555-197023@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Statistics: Unit 2 Project! Study Design for Pacifica
+DESCRIPTION:Statistics (Josephine Wilson)\nProject - Tests / Projects\nDue
+  11:59 PM\nWorth 7.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195206@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:AP Physics 1: Change in Momentum and Impulse
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Linear Momentum\nDue 11:59 
+ PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195207@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:AP Physics 1: Law of Conservation of Momentum
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Linear Momentum\nDue 11:59 
+ PM\nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3562-197383@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:AP Statistics: TEST Unit 2 A Lessons 2.A.1 - 2.A.5
+DESCRIPTION:AP Statistics (Josephine Wilson)\nTest - Tests / Projects\nDue
+  11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190994@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:AP Biology: Photosynthesis Lab Report -- Abbreviated
+DESCRIPTION:AP Biology (Nicole Geiger)\nLab - Exams\, Quizzes\, Labs & Pro
+ jects\nDue 10:50 AM\nWorth 2.6% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194047@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:AP Chemistry: Test Unit 3  Intermolecular forces and properties
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 11:59 P
+ M\nWorth 7.8% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195159@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Advanced Dance: Week 11: Participation 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Participation\nDue 11:5
+ 9 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3320-197594@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:American Literature and Composition: Journals: Scarlet Letter
+DESCRIPTION:American Literature and Composition (Katie Savage)\nOther - Pa
+ rticipation\nDue 8:00 AM\nWorth 6.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3320-197595@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:American Literature and Composition: Vocabulary Test: Scarlet Lett
+ er
+DESCRIPTION:American Literature and Composition (Katie Savage)\nTest - Wri
+ ting\nDue 8:00 AM\nWorth 5.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3304-197528@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:French 2: Project 2: Une Carte Postale
+DESCRIPTION:French 2 (Karla Herrera)\nProject - Projects\nDue 11:59 PM\nWo
+ rth 7.9% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190498@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Honors Chemistry: Unit 3 Practice Test (digital submission)- Requi
+ res Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Homework\nDue 1:10 PM\nW
+ orth 0.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189498@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Honors Latin 4: Test 2- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nTest - Tests & Quizzes\nDue 2:
+ 25 PM\nWorth 12.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3336-191695@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Honors US Government: READING QUIZ: Social Contract theorists - Re
+ quires Respondus LockDown Browser
+DESCRIPTION:Honors US Government (Chris McCulloch)\nQuiz - QUIZZES (Summat
+ ive and formative)\nDue 11:59 PM\nWorth 15.2% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3378-197587@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Spanish 3: Chapters 7-9 Quiz
+DESCRIPTION:Spanish 3 (Ryan Tahbaz)\nQuiz - Tests & Quizzes\nDue 8:30 AM\n
+ Worth 5.3% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190963@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:AP Biology: Khan Academy Cellular Energetics Exam
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Daily Work\nDue 10:50 AM\nW
+ orth 0.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190939@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:AP Biology: Exam Unit 3: Cellular Energy FRQ
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 10:50 AM\nWorth 1.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190940@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:AP Biology: Exam Unit 3: Cellular Energy MCQ's
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 10:50 AM\nWorth 4.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194048@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:AP Chemistry: Test Unit 3 Properties of Substances and Mixtures
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Test/Project\nDue 11:59 P
+ M\nWorth 7.8% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3462-197394@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Digital Film Production 3: Advanced Production: Director Research 
+ Project Step 1
+DESCRIPTION:Digital Film Production 3: Advanced Production (Samuel Anderso
+ n)\nProject - Homework\nDue 8:00 AM\nWorth 14.3% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3313-197512@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Honors Spanish 3: Proyecto 2: El Noticiero (Parte 2 - El Video)
+DESCRIPTION:Honors Spanish 3 (Karla Herrera)\nProject - Projects\nDue 9:00
+  AM\nWorth 4.0% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3339-189266@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Latin 1: Test 2 Version A - Requires Respondus LockDown Browser
+DESCRIPTION:Latin 1 (Linnea Scobey)\nTest - Tests & Quizzes\nDue 12:05 PM\
+ nWorth 7.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3301-197442@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:AP Language and Composition: "Civil Disobedience" RA Essay (IN-CLA
+ SS)
+DESCRIPTION:AP Language and Composition (Isaias Uggetti)\nEssay / paper - 
+ Assignments\nDue 9:25 AM\nWorth 13.5% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-197254@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Biology: Test Unit 3 Energy\, Growth and Homeostasis- Requires Res
+ pondus LockDown Browser
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nTest - Quizzes and Exams
+ \nDue 2:00 PM\nWorth 9.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3599-197375@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Geometry: TEST Unit 3 (Lessons 13-18)
+DESCRIPTION:Geometry (Josephine Wilson)\nTest - Tests\nDue 11:59 PM\nWorth
+  11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3480-197391@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Photography: Black & White Collection
+DESCRIPTION:Photography (Samuel Anderson)\nOther - Homework\nDue 9:25 AM\n
+ Worth 6.2% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-197327@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Technology Foundations: Variables and Functions
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - Programming Funda
+ mentals\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3349-191812@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:US Government: READING QUIZ: Social Contract theorists - Requires 
+ Respondus LockDown Browser
+DESCRIPTION:US Government (Chris McCulloch)\nQuiz - QUIZZES (Summative and
+  formative)\nDue 11:59 PM\nWorth 15.4% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195208@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:AP Physics 1: Density and Pressure
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Fluids\nDue 11:59 PM\nWorth
+  5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3614-189595@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:French 1: Project 2: ER verbs Escape Room
+DESCRIPTION:French 1 (Karla Herrera)\nProject - Projects\nDue 11:59 PM\nWo
+ rth 11.4% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3616-197551@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:AP Calculus AB: Test: Review Pages 11-15
+DESCRIPTION:AP Calculus AB (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts \nDue 1:00 PM\nWorth 12.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3625-197554@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:AP Calculus BC: Test: Lessons 11-15
+DESCRIPTION:AP Calculus BC (Matt Benedetto)\nTest - Quizzes/Tests/Assessme
+ nts\nDue 10:00 AM\nWorth 12.3% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194028@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:AP Chemistry: Post-Lab Report: Acid Base Titration
+DESCRIPTION:AP Chemistry (Clarita Joung)\nLab - Lab\nDue 8:00 AM\nWorth 2.
+ 5% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196143@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Advanced Engineering Principles: HW Presentation FollowUp Question
+ s
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nProject - Eng2 H
+ W\nDue 8:15 AM\nWorth 0.2% of the semester grade\nNot yet published in Ca
+ nvas
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3467-197564@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Digital Film Production 1: Screenwriting/Filmmaking: Brainstorm sh
+ ort film ideas
+DESCRIPTION:Digital Film Production 1: Screenwriting/Filmmaking (Samuel An
+ derson)\nProject - Projects\nDue 9:25 AM\nWorth 11.1% of the semester gra
+ de
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3497-197553@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Geometry: Test: Review Pages 11-15
+DESCRIPTION:Geometry (Matt Benedetto)\nTest - Quizzes/Tests/Assessments\nD
+ ue 2:00 PM\nWorth 11.1% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3492-191990@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Intermediate Art: Drawing and Painting: Self Portrait Unit Final P
+ roject (Paper Submission)
+DESCRIPTION:Intermediate Art: Drawing and Painting (Carson Vandermade)\nEs
+ say / paper - UNIT 2 - Self Portrait Drawing\nDue 8:00 AM\nWorth 51.6% of
+  the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-197341@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Advanced Computer Science with AI Agents: Test-Driven Development
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nTest - 
+ Software Engineering Fundamentals (Advanced Web Application Dev)\nDue 11:
+ 59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189557@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Honors Latin 4: Unit Reflection Paper: Hospitality 
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nEssay / paper - Presentations 
+ & Papers\nDue 1:10 PM\nWorth 3.4% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195154@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Advanced Dance: Journal 7: Alternative Hip Hop (MJ/House/Afro/Waac
+ king) 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Observation & Reflectio
+ n\nDue 12:45 PM\nWorth 5.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195347@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Physics: Conservation Laws (Energy and Momentum)
+DESCRIPTION:Physics (Steven Eno)\nOther - Energy and Conservation Laws\nDu
+ e 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195345@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Physics: Momentum and Impulse
+DESCRIPTION:Physics (Steven Eno)\nOther - Energy and Conservation Laws\nDu
+ e 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3557-195346@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Physics: Potential vs. Kinetic Energy
+DESCRIPTION:Physics (Steven Eno)\nOther - Energy and Conservation Laws\nDu
+ e 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-197333@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Biology: Quick Quiz Unit 4: Chromosomes & the Cell Cycle- Requires
+  Respondus LockDown Browser
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nQuiz - Quizzes and Exams
+ \nDue 12:05 PM\nWorth 2.1% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188377@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Biology: STEMscopes: When is the cell dividing? Graph and Comic (p
+ aper)
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nEssay / paper - Projects
+ \,  Labs and Analysis\nDue 10:50 AM\nWorth 2.3% of the semester grade
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3302-191575@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Late-Antique Philosophy: Written Reflection Unit 3: Aquinas Part 1
+DESCRIPTION:Late-Antique Philosophy (Stephen Roberson)\nTest - Written Ref
+ lections\nDue 8:00 AM\nWorth 5.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3344-188624@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:AP Literature and Composition: Literary Device Hunt (C+P 1)
+DESCRIPTION:AP Literature and Composition (Katie Savage)\nProject - Projec
+ ts/Tests\nDue 11:59 PM\nWorth 6.9% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195209@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:AP Physics 1: Buoyant Force
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Fluids\nDue 11:59 PM\nWorth
+  5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195210@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:AP Physics 1: Fluid Flow
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Fluids\nDue 11:59 PM\nWorth
+  5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195161@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Advanced Dance: Week 13: Participation 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Participation\nDue 11:5
+ 9 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191091@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:New Testament: Chapter 3 Exam: Free Response Section
+DESCRIPTION:New Testament (Violet Comer)\nTest - Analysis\nDue 9:15 AM\nWo
+ rth 3.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191089@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:New Testament: Chapter 3 Exam: Holy Week
+DESCRIPTION:New Testament (Violet Comer)\nTest - Content Knowledge\nDue 9:
+ 15 AM\nWorth 3.4% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-197330@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Technology Foundations: Groups and Lists
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - Programming Funda
+ mentals\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-197342@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Advanced Computer Science with AI Agents: Your First AI-Powered Fe
+ ature
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Using Coding Agents\nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196321@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Advanced Engineering Principles: Truss Project REPORT
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nEssay / paper - 
+ Eng2 Projects\nDue 1:45 PM\nWorth 14.2% of the semester grade\nNot yet pu
+ blished in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-191005@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:AP Biology: Quiz Unit 4: Cell Communication
+DESCRIPTION:AP Biology (Nicole Geiger)\nQuiz - Exams\, Quizzes\, Labs & Pr
+ ojects\nDue 10:50 AM\nWorth 1.8% of the semester grade
+CATEGORIES:Quiz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195162@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Advanced Dance: Week 14: Participation 
+DESCRIPTION:Advanced Dance (Violet Comer)\nOther - Participation\nDue 11:5
+ 9 PM\nWorth 5.4% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-195938@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Advanced Engineering Principles: Clawbot Competition POINTS
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nProject - Eng2 P
+ rojects\nDue 9:15 AM\nWorth 16.7% of the semester grade\nNot yet publishe
+ d in Canvas
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196137@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Advanced Engineering Principles: HW PROJECT TRUSS Scaled Drawing
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nProject - Eng2 P
+ rojects\nDue 8:15 AM\nWorth 0.8% of the semester grade\nNot yet published
+  in Canvas
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188347@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Biology: Karyotype Lab Image and Diagnosis (check off)
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nLab - Projects\,  Labs a
+ nd Analysis\nDue 10:50 AM\nWorth 1.2% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-191081@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Honors Chemistry: Unit 4 Practice Test (digital submission)
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Homework\nDue 1:10 PM\nW
+ orth 0.7% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-191075@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Honors Chemistry: Unit 4 Test- Requires Respondus LockDown Browser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Tests & Quizzes\nDue 11:
+ 59 PM\nWorth 5.8% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194029@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:AP Chemistry: Post-Lab Report: Vitamin C Titration - Redox Reactio
+ n
+DESCRIPTION:AP Chemistry (Clarita Joung)\nLab - Lab\nDue 8:00 AM\nWorth 2.
+ 5% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189553@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Honors Latin 4: Sports Presentations
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nProject - Presentations & Pape
+ rs\nDue 1:10 PM\nWorth 2.1% of the semester grade
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192228@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Introduction to Engineering: HardCopy Report
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nEssay / paper - Labs
+ /Projects\nDue 10:30 AM\nWorth 8.1% of the semester grade\nNot yet publis
+ hed in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192448@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Introduction to Engineering: Puzzle Cube Report online
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nEssay / paper - Labs
+ /Projects\nDue 10:30 AM\nWorth 1.6% of the semester grade\nNot yet publis
+ hed in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192492@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Introduction to Engineering: Wooden PuzzleCube
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nLab - Labs/Projects\
+ nDue 10:30 AM\nWorth 1.6% of the semester grade\nNot yet published in Can
+ vas
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3510-188334@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Biology: CER Introduction
+DESCRIPTION:Biology (Nicole Geiger\, Nic Scobey)\nLab - Projects\,  Labs a
+ nd Analysis\nDue 12:45 PM\nWorth 1.2% of the semester grade
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-194030@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:AP Chemistry: Practice Test
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Classwork\, Homework\, Qu
+ iz\nDue 8:00 AM\nWorth 0.9% of the semester grade\nNot yet published in C
+ anvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196290@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Advanced Engineering Principles: PROJECT TRUSS
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nProject - Eng2 P
+ rojects\nDue 8:00 AM\nWorth 8.3% of the semester grade\nNot yet published
+  in Canvas
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196082@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Advanced Engineering Principles: FINAL EXAM Part2: Truss Analysis
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nTest - Eng2 Fina
+ lExam\nDue 10:30 AM\nWorth 2.2% of the semester grade\nNot yet published 
+ in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3819-196083@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Advanced Engineering Principles: FINAL Exam: TRUSS Report
+DESCRIPTION:Advanced Engineering Principles (Dr. Sumida)\nEssay / paper - 
+ Eng2 FinalExam\nDue 8:00 AM\nWorth 4.4% of the semester grade\nNot yet pu
+ blished in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192474@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Introduction to Engineering: Revised PC Report
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nEssay / paper - Labs
+ /Projects\nDue 2:00 PM\nWorth 8.1% of the semester grade\nNot yet publish
+ ed in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3573-197331@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Technology Foundations: Loops
+DESCRIPTION:Technology Foundations (Steven Eno)\nOther - Programming Funda
+ mentals\nDue 11:59 PM\nWorth 8.3% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3533-193897@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:AP Chemistry: Final Exam (Unit 1 through 4)
+DESCRIPTION:AP Chemistry (Clarita Joung)\nTest - Final\nDue 11:59 PM\nWort
+ h 15.0% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195213@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:AP Physics 1: Energy of Simple Harmonic Oscillators
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Oscillations\nDue 11:59 PM\
+ nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195212@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:AP Physics 1: Period of Simple Harmonic Oscillators
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Oscillations\nDue 11:59 PM\
+ nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3563-195211@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:AP Physics 1: Simple Harmonic Motion (SHM) Graphs
+DESCRIPTION:AP Physics 1 (Steven Eno)\nOther - Oscillations\nDue 11:59 PM\
+ nWorth 5.6% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3498-190948@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:AP Biology: Fall Final Exam
+DESCRIPTION:AP Biology (Nicole Geiger)\nTest - Final Assessment\nDue 8:00 
+ AM\nWorth 15.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195145@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Advanced Dance: Final Exam: Dance Practice 
+DESCRIPTION:Advanced Dance (Violet Comer)\nTest - Final Exam\nDue 12:30 PM
+ \nWorth 1.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195146@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Advanced Dance: Final Exam: Step Demonstration
+DESCRIPTION:Advanced Dance (Violet Comer)\nTest - Final Exam\nDue 12:30 PM
+ \nWorth 6.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3461-195144@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Advanced Dance: Final Journal 
+DESCRIPTION:Advanced Dance (Violet Comer)\nTest - Final Exam\nDue 12:30 PM
+ \nWorth 1.7% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3370-189501@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Honors Latin 4: Final Exam (Fall) - Requires Respondus LockDown Br
+ owser
+DESCRIPTION:Honors Latin 4 (Linnea Scobey)\nTest - Final Exam\nDue 12:30 P
+ M\nWorth 10.0% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192051@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Introduction to Engineering: FINAL Exam Part 1 - Requires Respondu
+ s LockDown Browser
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nTest - Final Exam\nD
+ ue 9:30 AM\nWorth 10.0% of the semester grade\nNot yet published in Canva
+ s
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192140@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Introduction to Engineering: Final Exam (part2) EngDwg of Puzzle C
+ ube part
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nTest - Final Exam\nD
+ ue 10:00 AM\nWorth 5.0% of the semester grade\nNot yet published in Canva
+ s
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191087@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:New Testament: Final Exam Inductive Study 
+DESCRIPTION:New Testament (Violet Comer)\nTest - Analysis\nDue 10:00 AM\nW
+ orth 4.6% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191136@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:New Testament: Ten Lines to Live By 
+DESCRIPTION:New Testament (Violet Comer)\nOther - Analysis\nDue 8:00 AM\nW
+ orth 7.7% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3484-191094@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:New Testament: Epilogue Exam: The Christian Life & Mission
+DESCRIPTION:New Testament (Violet Comer)\nTest - Content Knowledge\nDue 9:
+ 00 AM\nWorth 2.9% of the semester grade
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190391@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Honors Chemistry: Final Exam: Practical
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Final Exam\nDue 11:59 PM
+ \nWorth 2.7% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190392@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Honors Chemistry: Final Exam: Self-Reflection
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Final Exam\nDue 11:59 PM
+ \nWorth 1.4% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3580-190393@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Honors Chemistry: Final Exam: Test- Requires Respondus LockDown Br
+ owser
+DESCRIPTION:Honors Chemistry (Nic Scobey)\nTest - Final Exam\nDue 11:59 PM
+ \nWorth 10.9% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Test
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3551-197343@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Advanced Computer Science with AI Agents: NLP Feature and Bias Aud
+ it
+DESCRIPTION:Advanced Computer Science with AI Agents (Steven Eno)\nOther -
+  Using Coding Agents\nDue 11:59 PM\nWorth 10.0% of the semester grade
+CATEGORIES:Other
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192139@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Introduction to Engineering: Fastener Presentations
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nProject - HW\nDue 10
+ :10 AM\nWorth 0.5% of the semester grade\nNot yet published in Canvas
+CATEGORIES:Project
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192441@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Introduction to Engineering: Peer Judge Evaluation
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nLab - Labs/Projects\
+ nDue 9:25 AM\nWorth 1.6% of the semester grade\nNot yet published in Canv
+ as
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192071@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Introduction to Engineering: Brainstormed Automaton Design
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nLab - Labs/Projects\
+ nDue 9:25 AM\nWorth 0.6% of the semester grade\nNot yet published in Canv
+ as
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192068@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Introduction to Engineering: Automaton Report
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nEssay / paper - Labs
+ /Projects\nDue 11:59 PM\nWorth 9.1% of the semester grade\nNot yet publis
+ hed in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192069@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Introduction to Engineering: Automaton Video
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nLab - Labs/Projects\
+ nDue 11:59 PM\nWorth 2.2% of the semester grade\nNot yet published in Can
+ vas
+CATEGORIES:Lab
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canvas-3493-192440@canvas-dashboard
+DTSTAMP:20261106T144738Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Introduction to Engineering: Peer Graded REPORT
+DESCRIPTION:Introduction to Engineering (Dr. Sumida)\nEssay / paper - Labs
+ /Projects\nDue 10:40 AM\nWorth 1.6% of the semester grade\nNot yet publis
+ hed in Canvas
+CATEGORIES:Essay / paper
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

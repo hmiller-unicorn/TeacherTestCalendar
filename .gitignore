@@ -1,0 +1,7 @@
+# Public GitHub Pages site: only the test calendar is published.
+# Everything else in this folder (teacher stats, spreadsheets with student names) stays private.
+*
+!.gitignore
+!index.html
+!test_calendar.html
+!test_calendar.ics
